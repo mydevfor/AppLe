@@ -46,7 +46,7 @@ header {
 
 .center-div {
   display: flex;
-  width: 50%;
+  width: 80%;
   justify-content: space-between;
 }
 
